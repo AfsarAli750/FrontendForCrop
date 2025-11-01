@@ -40,6 +40,11 @@ button:hover {
   #nonEmptyForm {
     width: 50%;
   }
+
+  form button{
+    border-radius: 2rem;
+    height:3rem;
+  }
 }
 
 @media (max-width: 768px) {
