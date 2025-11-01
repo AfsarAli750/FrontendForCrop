@@ -1,6 +1,6 @@
 // src/Components/CropResult.jsx
 import React from "react";
-import CropList from "../../../../Dataset/Crop_list.json";
+import CropList from ".././assets/Crop_list.json"
 import "./CropResult.css";
 import "../App.css"; // Optional if you want to use same styling
 
