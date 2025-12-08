@@ -15,7 +15,7 @@ h2 {
 
 @media (min-width: 768px) {
   .resultNotEmpty {
-    width: 50%;
+    width: 60%;
     margin-top: 2rem;
   }
   h2{
