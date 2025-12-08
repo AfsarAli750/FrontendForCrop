@@ -7,7 +7,7 @@ h1 {
 
 @media (min-width: 768px) {
   #nonEmpty {
-    margin-top: 5rem;
+    margin-top: 1rem;
     width: 80%;
     display: flex;
     justify-content: space-between;
